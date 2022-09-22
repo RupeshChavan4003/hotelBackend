@@ -1,0 +1,64 @@
+{
+  
+  "admin":[
+  {
+    "category": "family",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "AC",
+    "bed_type": "single",
+		"no_of_persons":"2",
+		"capacity":"4",
+		"cost":5000,
+		"booked":false
+  },
+  {
+    "category": "deluxe",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "AC",
+    "bed_type": "double",
+		"no_of_persons":"2",
+		"capacity":"4",
+		"cost":8000,
+		"booked":false
+  }, {
+    "category": "family",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "Non-AC",
+    "bed_type": "double",
+		"no_of_persons":"4",
+		"capacity":"4",
+		"cost":10000,
+		"booked":false
+  },
+   {
+    "category": "suite",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "AC",
+    "bed_type": "double",
+		"no_of_persons":"2",
+		"capacity":"4",
+		"cost":15000,
+		"booked":false
+  },
+  {
+    "category": "suite",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "AC",
+    "bed_type": "double",
+		"no_of_persons":"2",
+		"capacity":"4",
+		"cost":25000,
+		"booked":false
+  },
+  {
+    "category": "family",
+    "image_url": "https://media.istockphoto.com/photos/luxurious-bedroom-interior-at-nigh-with-messy-bed-leather-armchairs-picture-id1300135335?b=1&k=20&m=1300135335&s=170667a&w=0&h=gTccKAt38zEmqC88LTCOME22BsDLCi9dKyRYWckBQM8=",
+    "type_of_room": "AC",
+    "bed_type": "double",
+		"no_of_persons":"2",
+		"capacity":"4",
+		"cost":30000,
+		"booked":false
+  }
+]
+}
